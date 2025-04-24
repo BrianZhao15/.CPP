@@ -12,7 +12,7 @@ void solve() {
             break;
         }
 
-        m -= i;
+        m-=i;
     }
 
     cout << m;
